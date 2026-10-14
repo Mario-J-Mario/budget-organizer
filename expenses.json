@@ -1,0 +1,598 @@
+{
+  "account": "Key Smart Checking",
+  "generated_at": "2026-10-13T20:07:50.157000",
+  "summary": {
+    "total_transactions": 83,
+    "total_income": 7857.01,
+    "total_spending": -10179.85,
+    "net": -2322.84,
+    "date_range": [
+      "2026-04-02",
+      "2026-09-01"
+    ]
+  },
+  "instructions": "Categorize each transaction by filling in 'category' using these categories: income, rent, utilities, groceries, dining_out, transportation, shopping, subscriptions, entertainment, health, transfers, fees, other. Amounts are negative for spending, positive for deposits.",
+  "transactions": [
+    {
+      "date": "2026-04-02",
+      "amount": -4.56,
+      "description": "ROCKET SAVINGS DEPOSIT",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-02",
+      "amount": -34.23,
+      "description": "TARGET.COMBROOKLYN PARKMN US",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-02",
+      "amount": -134.8,
+      "description": "POS MAC AMAZON.COM*BG9 SEATTLE WA",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-03",
+      "amount": -21.0,
+      "description": "IMAXTHEATERINSTATEMUSE INDIANAPOLIS IN",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-03",
+      "amount": -3.95,
+      "description": "PUBLIC STORAGE XXXXX1407 INDIANAPOLIS IN",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-03",
+      "amount": -290.81,
+      "description": "INTERNET TRF TO CCA XXXXXXXXXXXX2361 0101",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-03",
+      "amount": -50.0,
+      "description": "WITHDRAWAL BRANCH 0194 INDIANA",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-06",
+      "amount": -37.24,
+      "description": "LINCOLN SQUARE ZIONSV ZIONSVILLE IN",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-08",
+      "amount": -200.0,
+      "description": "INTERNET TRF TO DDA XXXXX3988 0101",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-08",
+      "amount": 712.89,
+      "description": "FGF LLC PAYROLL",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-09",
+      "amount": -192.43,
+      "description": "KEYBANK CRDTCARDAUTOPAY",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-09",
+      "amount": -4.56,
+      "description": "ROCKET SAVINGS DEPOSIT",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-13",
+      "amount": -41.05,
+      "description": "COMCAST-XFINITY CABLE SVCS",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-13",
+      "amount": -50.0,
+      "description": "ZELLE W/D ROSA KEYBANK IBA15L2TD",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-13",
+      "amount": -10.0,
+      "description": "ZELLE W/D KERRY 3BI1TLLPD",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-14",
+      "amount": -35.0,
+      "description": "CHASE CREDIT CRDAUTOPAY",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-15",
+      "amount": 757.25,
+      "description": "FGF LLC PAYROLL",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-16",
+      "amount": -4.56,
+      "description": "ROCKET SAVINGS DEPOSIT",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-17",
+      "amount": -0.99,
+      "description": "PAYPAL PURCHASE",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-20",
+      "amount": -150.0,
+      "description": "INTERNET TRF TO DDA XXXXX9735 0101",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-22",
+      "amount": 729.15,
+      "description": "FGF LLC PAYROLL",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-23",
+      "amount": -4.56,
+      "description": "ROCKET SAVINGS DEPOSIT",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-24",
+      "amount": 600.0,
+      "description": "ZELLE DEP JACOB LI XBA1HXE4C",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-29",
+      "amount": -7.0,
+      "description": "ROCKET MONEY PREMIUM ST-P5H7S4P9T4B6",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-04-29",
+      "amount": 800.28,
+      "description": "FGF LLC PAYROLL",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-05-01",
+      "amount": -1199.0,
+      "description": "FAIRLAWN REAL ESWEB PMTS",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-05-01",
+      "amount": -4.56,
+      "description": "ROCKET SAVINGS DEPOSIT",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-05-01",
+      "amount": -2.49,
+      "description": "APPFOLIO, INC. FWEB PMTS",
+      "source_file": "Apr 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-03",
+      "amount": -1034.0,
+      "description": "FAIRLAWN REAL ESWEB PMTS",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-03",
+      "amount": -13.76,
+      "description": "CITIZENS ENERGY BILLPAY",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-03",
+      "amount": -2.49,
+      "description": "APPFOLIO, INC. FWEB PMTS",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-03",
+      "amount": -50.0,
+      "description": "ZELLE W/D LAYTH NBZ1QN7ED",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-04",
+      "amount": -66.77,
+      "description": "AMC 6384 TRADERS POINT INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-04",
+      "amount": -54.32,
+      "description": "AMC 9640 ONLINE LEAWOOD KS",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-05",
+      "amount": -27.23,
+      "description": "CHILI'S TRADERS POINTE INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-06",
+      "amount": -11.99,
+      "description": "POS MAC WALGREENS STOR INDIANAPOL IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-06",
+      "amount": -14.99,
+      "description": "POS MAC CVS/PHARMACY # INDIANAPOL IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-06",
+      "amount": -2.5,
+      "description": "NAYAX **VENDICCI VENDI INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-07",
+      "amount": -1764.1,
+      "description": "KEYBANK CRDTCARDAUTOPAY",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-07",
+      "amount": -53.89,
+      "description": "KEYBANK CRDTCARDAUTOPAY",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-10",
+      "amount": -6.53,
+      "description": "POS MAC WAL-MART #1518 INDIANAPOL IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-10",
+      "amount": -12.83,
+      "description": "GOOGLE *CLASH ROMOUNTAIN VIEWCA US",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-10",
+      "amount": -8.9,
+      "description": "POS MAC WAL-MART #3781 INDIANAPOL IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-10",
+      "amount": -27.8,
+      "description": "POS MAC AUTOZONE 0667 INDIANAPOL IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-10",
+      "amount": -10.89,
+      "description": "LITTLE CAESARS 558 INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-10",
+      "amount": -35.38,
+      "description": "DAVES HOT CHICKEN 1087 INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-10",
+      "amount": -238.0,
+      "description": "INTERNET TRF TO CCA XXXXXXXXXXXX8420 0101",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-11",
+      "amount": -26.89,
+      "description": "COMCAST-XFINITY CABLE SVCS",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 1820.23,
+      "description": "QUEST GLOBAL SERPAYROLL",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-13",
+      "amount": -540.75,
+      "description": "CHASE CREDIT CRDAUTOPAY",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-13",
+      "amount": -13.63,
+      "description": "POS MAC WAL-MART #4053 INDIANAPOL IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-13",
+      "amount": -2.0,
+      "description": "NAYAX **VENDICCI VENDI INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-13",
+      "amount": -3.0,
+      "description": "NAYAX **VENDICCI VENDI INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-13",
+      "amount": -2.0,
+      "description": "NAYAX **VENDICCI VENDI INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-14",
+      "amount": -17.43,
+      "description": "DAVES HOT CHICKEN 1087 INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-17",
+      "amount": -0.99,
+      "description": "PAYPAL PURCHASE",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-17",
+      "amount": -78.28,
+      "description": "SQ *LA GUANAQUITA REST GRAFTON IL",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-17",
+      "amount": -58.95,
+      "description": "SP KATANADRIFTCO EL SOBRANTE CA",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-17",
+      "amount": -17.86,
+      "description": "BURGER KING #5631 Q07 INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-18",
+      "amount": -11.45,
+      "description": "LS CARNICERIA GUANAJUA INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-18",
+      "amount": -25.6,
+      "description": "TICKETS AT WORK XXXXX6483 FL",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-19",
+      "amount": -6.0,
+      "description": "ACT INDIANAPOLISP&RDEP INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-20",
+      "amount": -10.68,
+      "description": "POS MAC WM SUPERCENTER INDIANAPOL IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-20",
+      "amount": -23.54,
+      "description": "ZELLE W/D ROSA KEYBANK WBM1INHOD",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-21",
+      "amount": -27.01,
+      "description": "CRACKER BARREL #49 IND INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-24",
+      "amount": -269.23,
+      "description": "CITI AUTOPAY PAYMENT",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-24",
+      "amount": -60.0,
+      "description": "ROYAL PIN WOODLAND INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-24",
+      "amount": -8.54,
+      "description": "POS MAC WALGREENS STOR INDIANAPOL IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-24",
+      "amount": -53.1,
+      "description": "ANTOJITOS CARMEN LLC INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-24",
+      "amount": -149.97,
+      "description": "TEXAS ROADHOUSE #2052 AVON IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-25",
+      "amount": -500.0,
+      "description": "INTERNET TRF TO DDA XXXXX3988 0101",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 1820.21,
+      "description": "QUEST GLOBAL SERPAYROLL",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-27",
+      "amount": -2000.0,
+      "description": "INTERNET TRF TO DDA XXXXX3988 0101",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-31",
+      "amount": -13.84,
+      "description": "CITIZENS ENERGY BILLPAY",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-31",
+      "amount": -7.0,
+      "description": "ROCKET MONEY PREMIUM ST-G2D4S4H8H2R4",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-31",
+      "amount": -50.0,
+      "description": "ATM KEY 4515 LAYAFETTE RD INDIANAPOL IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-31",
+      "amount": -42.2,
+      "description": "CHILI'S TRADERS POINTE INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-31",
+      "amount": -3.2,
+      "description": "DISCORD* NITROBASIC-MO SAN FRANCISCO CA",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-31",
+      "amount": -61.42,
+      "description": "TIAN FU ASIAN BISTRO INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-31",
+      "amount": -117.5,
+      "description": "POS MAC COSTCO WHSE #0 INDIANAPOL IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-08-31",
+      "amount": -49.92,
+      "description": "WHAT THE PHO INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-09-01",
+      "amount": -8.71,
+      "description": "SUBWAY XXXXX6317 INDIANAPOLIS IN",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    },
+    {
+      "date": "2026-09-01",
+      "amount": 617.0,
+      "description": "ZELLE DEP JACOB LI VBM1GVLDC",
+      "source_file": "Aug 2026.csv",
+      "category": null
+    }
+  ]
+}
